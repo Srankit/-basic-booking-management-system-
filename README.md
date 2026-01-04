@@ -59,7 +59,7 @@ booking-app/
 ## Installation
 
 ### Clone the repository
-
+git
 ```bash
 git clone https://github.com/Srankit/booking-app.git
 cd booking-app
